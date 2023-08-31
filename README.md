@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on TCC (The Config Cloud)
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 👯 I’m looking to collaborate on TCC
