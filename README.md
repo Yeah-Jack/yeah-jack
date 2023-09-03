@@ -8,3 +8,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I found interest in coding again because of this video: https://youtu.be/qBC6VHhj64c
 - 💭 Favorite Quote: Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
+- 💪 Achievements:
+  - Translated Solar Tweaks
+  - Translated Vape V4
