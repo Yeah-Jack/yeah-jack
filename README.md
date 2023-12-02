@@ -68,7 +68,14 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/yeahjack"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yeahjack" /></a></p><br><br>
+<p><a href="https://ko-fi.com/yeahjack"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yeahjack" /></a></p><br><be>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&theme=transparent&locale=en&layout=compact" alt="yeah-jack" /></p>
