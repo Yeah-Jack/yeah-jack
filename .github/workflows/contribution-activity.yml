@@ -55,6 +55,6 @@ jobs:
 
     steps:
       - name: GitHub - Activity - Readme
-        uses: uses: jamesgeorge007/github-activity-readme@v0.4.3
+        uses: uses: jamesgeorge007/github-activity-readme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
