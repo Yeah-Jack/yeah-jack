@@ -75,13 +75,9 @@
 
 
 <h2 align="center">💻 Recent GitHub Activity 💻</h2>
-<p align="center">
+<div align="center">
 <!--START_SECTION:activity-->
-1. 🚀 Published release [The Game](https://github.com/Yeah-Jack/rust-guessing-game/releases/tag/0.1.0) in [Yeah-Jack/rust-guessing-game](https://github.com/Yeah-Jack/rust-guessing-game)
-2. 💪 Opened PR [#11746](https://github.com/darkreader/darkreader/pull/11746) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-3. 💪 Opened PR [#11726](https://github.com/darkreader/darkreader/pull/11726) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-<!--END_SECTION:activity-->
-</p>
+</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
