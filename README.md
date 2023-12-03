@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack" /> </p>
 
-<h1 align="center">Hi 👋, I'm Yeah Jack</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Yeah Jack 👨‍💻</h1>
+<h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yeah-jack&theme=algolia&no-bg=true" alt="yeah-jack" /> </p>
 
@@ -35,8 +35,8 @@
 
   - Translated Vape V4
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">🤝 Connect with me 🤝</h2>
+<p align="center">
   <a href="https://codepen.io/yeahjack" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yeahjack" height="30" width="40" /></a>
   <a href="https://twitter.com/yeahjack_" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeahjack_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/na" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="na" height="30" width="40" /></a>
@@ -48,8 +48,9 @@
   <a href="https://discord.com/users/588774210998894618" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="na" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<h2 align="center">⚙️ Languages and Tools ⚙️</h2>
+<p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -67,10 +68,7 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/yeahjack"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yeahjack" /></a></p><br><be>
-
-
+<h2 align="center">🐍 Contributions 🐍</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake.svg">
@@ -78,16 +76,22 @@
 </picture>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&theme=transparent&locale=en&layout=compact" alt="yeah-jack" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&theme=transparent&locale=en" alt="yeah-jack" /></p>
-
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
+<h2 align="center">💻 Recent GitHub Activity 💻</h2>
+<p align="center">
 <!--START_SECTION:activity-->
 1. 🚀 Published release [The Game](https://github.com/Yeah-Jack/rust-guessing-game/releases/tag/0.1.0) in [Yeah-Jack/rust-guessing-game](https://github.com/Yeah-Jack/rust-guessing-game)
 2. 💪 Opened PR [#11746](https://github.com/darkreader/darkreader/pull/11746) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
 3. 💪 Opened PR [#11726](https://github.com/darkreader/darkreader/pull/11726) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
 <!--END_SECTION:activity-->
-</details>
+</p>
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&locale=en&layout=compact" alt="yeah-jack" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&locale=en" alt="yeah-jack" /></p>
+
+
+<h2 align="center">🤗 Support 🤗</h2>
+<p align="center">
+  <a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack" /></a>
+</p>
