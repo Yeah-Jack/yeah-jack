@@ -87,8 +87,8 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&locale=en&layout=compact" alt="yeah-jack" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&locale=en" alt="yeah-jack" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="yeah-jack"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en&layout=compact" alt="yeah-jack"/>
 
 
 <h2 align="center">🤗 Support 🤗</h2>
