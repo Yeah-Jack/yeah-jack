@@ -1,12 +1,9 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
-  push:
-    branches:
-    - main
 
 jobs:
   build:
