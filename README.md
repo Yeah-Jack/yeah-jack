@@ -3,35 +3,35 @@
 <h1 align="center">Hi 👋, I'm Yeah Jack 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
 
-- 🔭 I’m currently working on [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
+-   🔭 I’m currently working on [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
 
-- 🌱 I’m currently learning **Frontend Development**
+-   🌱 I’m currently learning **Frontend Development**
 
-- 👯 I’m looking to collaborate on [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
+-   👯 I’m looking to collaborate on [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
 
-- 🤝 I’m looking for help with [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
+-   🤝 I’m looking for help with [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Yeah-Jack?tab=repositories)
+-   👨‍💻 All of my projects are available at [GitHub](https://github.com/Yeah-Jack?tab=repositories)
 
-- 📝 I regularly write articles on [NA](NA)
+-   📝 I regularly write articles on [NA](NA)
 
-- 💬 Ask me about **Frontend Development**
+-   💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **yeahjack.yt@gmail.com**
+-   📫 How to reach me **yeahjack.yt@gmail.com**
 
-- 📄 Know about my experiences [NA](NA)
+-   📄 Know about my experiences [NA](NA)
 
-- 😄 Pronouns: He/Him/His
+-   😄 Pronouns: He/Him/His
 
-- ⚡ Fun fact: I found interest in coding again because of this video: [How I replaced gaming with coding](https://youtu.be/qBC6VHhj64c)
+-   ⚡ Fun fact: I found interest in coding again because of this video: [How I replaced gaming with coding](https://youtu.be/qBC6VHhj64c)
 
-- 💭 Favorite Quote: Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
+-   💭 Favorite Quote: Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
 
-- 💪 Achievements:
+-   💪 Achievements:
 
-  - Translated Solar Tweaks
+    -   Translated Solar Tweaks
 
-  - Translated Vape V4
+    -   Translated Vape V4
 
 <h2 align="center">🤝 Connect with me 🤝</h2>
 <p align="center">
@@ -45,7 +45,6 @@
   <a href="https://www.leetcode.com/na" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="na" height="30" width="40" /></a>
   <a href="https://discord.com/users/588774210998894618" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="na" height="30" width="40" /></a>
 </p>
-
 
 <h2 align="center">⚙️ Languages and Tools ⚙️</h2>
 <p align="center">
@@ -65,7 +64,6 @@
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 </p>
 
-
 <h2 align="center">🐍 Contributions 🐍</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake-dark.svg">
@@ -73,22 +71,20 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 <h2 align="center">💻 Recent GitHub Activity 💻</h2>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack)
 2. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack)
 3. 💪 Opened PR [#61](https://github.com/darkreader/darkreader.org/pull/61) in [darkreader/darkreader.org](https://github.com/darkreader/darkreader.org)
 4. 🚀 Published release [The Game](https://github.com/Yeah-Jack/rust-guessing-game/releases/tag/0.1.0) in [Yeah-Jack/rust-guessing-game](https://github.com/Yeah-Jack/rust-guessing-game)
-<!--END_SECTION:activity-->
-
+ <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=yeah-jack&theme=algolia&no-bg=true" alt="yeah-jack"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="yeah-jack"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en&layout=compact" alt="yeah-jack"/>
-
 
 <h2 align="center">🤗 Support 🤗</h2>
 <p align="center">
