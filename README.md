@@ -75,10 +75,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#480](https://github.com/jitsi/handbook/pull/480) in [jitsi/handbook](https://github.com/jitsi/handbook)
-2. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack)
-3. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack)
-4. 💪 Opened PR [#61](https://github.com/darkreader/darkreader.org/pull/61) in [darkreader/darkreader.org](https://github.com/darkreader/darkreader.org)
+1. 💪 Opened PR [#4267](https://github.com/MeteorDevelopment/meteor-client/pull/4267) in [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client)
+2. 💪 Opened PR [#480](https://github.com/jitsi/handbook/pull/480) in [jitsi/handbook](https://github.com/jitsi/handbook)
+3. 🎉 Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack)
+4. 💪 Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Yeah-Jack)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
