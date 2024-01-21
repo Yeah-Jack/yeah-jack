@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack"/> </p>
 
 <h1 align="center">Hi 👋, I'm Yeah Jack 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
@@ -39,15 +39,15 @@
 
 <h2 align="center">🤝 Connect with me 🤝</h2>
 <p align="center">
-  <a href="https://codepen.io/yeahjack" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yeahjack" height="30" width="40" /></a>
-  <a href="https://twitter.com/yeahjack_" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeahjack_" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/na" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="na" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/yeahjack0" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="na" height="30" width="40" /></a>
-  <a href="https://instagram.com/yeahjack_" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeahjack_" height="30" width="40" /></a>
-  <a href="https://www.behance.net/yeahjack" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="na" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCcPk9cZSVXpabjFHeRysiWA" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yeahjack_" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/na" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="na" height="30" width="40" /></a>
-  <a href="https://discord.com/users/588774210998894618" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="na" height="30" width="40" /></a>
+  <a href="https://codepen.io/yeahjack" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yeahjack" height="30" width="40"/></a>
+  <a href="https://twitter.com/yeahjack_" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeahjack_" height="30" width="40"/></a>
+  <a href="https://linkedin.com/in/na" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="na" height="30" width="40"/></a>
+  <a href="https://www.facebook.com/yeahjack0" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="na" height="30" width="40"/></a>
+  <a href="https://instagram.com/yeahjack_" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeahjack_" height="30" width="40"/></a>
+  <a href="https://www.behance.net/yeahjack" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="na" height="30" width="40"/></a>
+  <a href="https://www.youtube.com/channel/UCcPk9cZSVXpabjFHeRysiWA" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yeahjack_" height="30" width="40"/></a>
+  <a href="https://www.leetcode.com/na" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="na" height="30" width="40"/></a>
+  <a href="https://discord.com/users/588774210998894618" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="na" height="30" width="40"/></a>
 </p>
 
 <h2 align="center">⚙️ Languages and Tools ⚙️</h2>
@@ -91,5 +91,5 @@
 
 <h2 align="center">🤗 Support 🤗</h2>
 <p align="center">
-  <a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack" /></a>
+  <a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack"/></a>
 </p>
