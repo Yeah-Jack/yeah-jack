@@ -79,10 +79,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2093](https://github.com/Vendicated/Vencord/pull/2093) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-2. 💪 Opened PR [#68](https://github.com/t-wolfeadam/AnyLogic-Pypeline/pull/68) in [t-wolfeadam/AnyLogic-Pypeline](https://github.com/t-wolfeadam/AnyLogic-Pypeline)
-3. 💪 Opened PR [#11009](https://github.com/EbookFoundation/free-programming-books/pull/11009) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-4. 💪 Opened PR [#4267](https://github.com/MeteorDevelopment/meteor-client/pull/4267) in [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client)
+1. 💪 Opened PR [#15103](https://github.com/HabitRPG/habitica/pull/15103) in [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
+2. 💪 Opened PR [#2093](https://github.com/Vendicated/Vencord/pull/2093) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
+3. 💪 Opened PR [#68](https://github.com/t-wolfeadam/AnyLogic-Pypeline/pull/68) in [t-wolfeadam/AnyLogic-Pypeline](https://github.com/t-wolfeadam/AnyLogic-Pypeline)
+4. 💪 Opened PR [#11009](https://github.com/EbookFoundation/free-programming-books/pull/11009) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
