@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
 <div align="center"> 
 	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="pinguin gif"/>
-	<img src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="yeah-jack"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Yeah-Jack&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="yeah-jack"/>
 </div>
 <div align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits"> </p>
 
@@ -88,9 +88,14 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=yeah-jack&theme=algolia&no-bg=true" alt="yeah-jack"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en&layout=compact" alt="yeah-jack"/>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeah-Jack&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en&layout=compact" alt="Yeah-Jack"/>
+ 	<img src="https://github-readme-streak-stats.herokuapp.com?user=YeahJack&theme=material-palenight&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en&layout=compact">
 
 <h2 align="center">🤗 Support 🤗</h2>
 <p align="center">
   <a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack"/></a>
 </p>
+
+<h2 align="center"> 📌 Pinned Repositories </h2>
+<p align="center"> Take a look at my most outstanding repositories. </p>
