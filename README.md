@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack"/> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack"/> </div>
 
 <h1 align="center">Hi 👋, I'm Yeah Jack 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
