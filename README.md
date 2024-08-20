@@ -2,10 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Yeah Jack 👨‍💻</h1>
 <h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
-<p align="center"> 
+<div align="center"> 
 	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="pinguin gif"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=yeah-jack&show_icons=true&count_private=true&theme=transparent&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="yeah-jack"/>
-</p>
+</div>
+<div align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits"> </p>
 
 -   🔭 I’m currently working on [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
 
