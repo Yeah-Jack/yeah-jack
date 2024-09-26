@@ -80,10 +80,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15103](https://github.com/HabitRPG/habitica/pull/15103#issuecomment-2078194043) in [HabitRPG/habitica](https://github.com/HabitRPG/habitica)
-2. 💪 Opened PR [#2093](https://github.com/Vendicated/Vencord/pull/2093) in [Vendicated/Vencord](https://github.com/Vendicated/Vencord)
-3. 💪 Opened PR [#68](https://github.com/t-wolfeadam/AnyLogic-Pypeline/pull/68) in [t-wolfeadam/AnyLogic-Pypeline](https://github.com/t-wolfeadam/AnyLogic-Pypeline)
-4. 💪 Opened PR [#11009](https://github.com/EbookFoundation/free-programming-books/pull/11009) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+1. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/Cpp-Projects-Collection/pull/1) in [Yeah-Jack/Cpp-Projects-Collection](https://github.com/Yeah-Jack/Cpp-Projects-Collection)
+2. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/Linux-Repair-Script/pull/1) in [Yeah-Jack/Linux-Repair-Script](https://github.com/Yeah-Jack/Linux-Repair-Script)
+3. 🎉 Merged PR [#3](https://github.com/Yeah-Jack/number-guessing-game/pull/3) in [Yeah-Jack/number-guessing-game](https://github.com/Yeah-Jack/number-guessing-game)
+4. 🎉 Merged PR [#2](https://github.com/Yeah-Jack/number-guessing-game/pull/2) in [Yeah-Jack/number-guessing-game](https://github.com/Yeah-Jack/number-guessing-game)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
