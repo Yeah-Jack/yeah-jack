@@ -80,10 +80,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/Cpp-Projects-Collection/pull/1) in [Yeah-Jack/Cpp-Projects-Collection](https://github.com/Yeah-Jack/Cpp-Projects-Collection)
-2. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/Linux-Repair-Script/pull/1) in [Yeah-Jack/Linux-Repair-Script](https://github.com/Yeah-Jack/Linux-Repair-Script)
-3. 🎉 Merged PR [#3](https://github.com/Yeah-Jack/number-guessing-game/pull/3) in [Yeah-Jack/number-guessing-game](https://github.com/Yeah-Jack/number-guessing-game)
-4. 🎉 Merged PR [#2](https://github.com/Yeah-Jack/number-guessing-game/pull/2) in [Yeah-Jack/number-guessing-game](https://github.com/Yeah-Jack/number-guessing-game)
+1. 🚀 Published release [C++ Game](https://github.com/Yeah-Jack/number-guessing-game/releases/tag/v1.1.0) in [Yeah-Jack/number-guessing-game](https://github.com/Yeah-Jack/number-guessing-game)
+2. ❌ Closed PR [#1](https://github.com/Yeah-Jack/python-text-parser/pull/1) in [Yeah-Jack/python-text-parser](https://github.com/Yeah-Jack/python-text-parser)
+3. 🎉 Merged PR [#2](https://github.com/Yeah-Jack/python-text-parser/pull/2) in [Yeah-Jack/python-text-parser](https://github.com/Yeah-Jack/python-text-parser)
+4. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/Cpp-Projects-Collection/pull/1) in [Yeah-Jack/Cpp-Projects-Collection](https://github.com/Yeah-Jack/Cpp-Projects-Collection)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
