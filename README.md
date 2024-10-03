@@ -80,10 +80,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/Yeah-Jack/cpp-projects/pull/7) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-2. ❌ Closed PR [#6](https://github.com/Yeah-Jack/cpp-projects/pull/6) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-3. 🎉 Merged PR [#5](https://github.com/Yeah-Jack/cpp-projects/pull/5) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-4. 🎉 Merged PR [#2](https://github.com/Yeah-Jack/cpp-projects/pull/2) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+1. ❌ Closed PR [#61](https://github.com/darkreader/darkreader.org/pull/61) in [darkreader/darkreader.org](https://github.com/darkreader/darkreader.org)
+2. ❌ Closed PR [#68](https://github.com/the-anylogic-company/AnyLogic-Pypeline/pull/68) in [the-anylogic-company/AnyLogic-Pypeline](https://github.com/the-anylogic-company/AnyLogic-Pypeline)
+3. 🎉 Merged PR [#9](https://github.com/Yeah-Jack/cpp-projects/pull/9) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+4. 🎉 Merged PR [#3](https://github.com/Yeah-Jack/linux-repair-script/pull/3) in [Yeah-Jack/linux-repair-script](https://github.com/Yeah-Jack/linux-repair-script)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
