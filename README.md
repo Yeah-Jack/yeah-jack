@@ -80,10 +80,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#61](https://github.com/darkreader/darkreader.org/pull/61) in [darkreader/darkreader.org](https://github.com/darkreader/darkreader.org)
-2. ❌ Closed PR [#68](https://github.com/the-anylogic-company/AnyLogic-Pypeline/pull/68) in [the-anylogic-company/AnyLogic-Pypeline](https://github.com/the-anylogic-company/AnyLogic-Pypeline)
-3. 🎉 Merged PR [#9](https://github.com/Yeah-Jack/cpp-projects/pull/9) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-4. 🎉 Merged PR [#3](https://github.com/Yeah-Jack/linux-repair-script/pull/3) in [Yeah-Jack/linux-repair-script](https://github.com/Yeah-Jack/linux-repair-script)
+1. 🎉 Merged PR [#12](https://github.com/Yeah-Jack/cpp-projects/pull/12) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+2. 🎉 Merged PR [#11](https://github.com/Yeah-Jack/cpp-projects/pull/11) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+3. 🎉 Merged PR [#10](https://github.com/Yeah-Jack/cpp-projects/pull/10) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+4. ❌ Closed PR [#61](https://github.com/darkreader/darkreader.org/pull/61) in [darkreader/darkreader.org](https://github.com/darkreader/darkreader.org)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
