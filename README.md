@@ -80,10 +80,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/Yeah-Jack/cpp-projects/pull/14) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-2. 🎉 Merged PR [#4](https://github.com/Yeah-Jack/html-php-projects/pull/4) in [Yeah-Jack/html-php-projects](https://github.com/Yeah-Jack/html-php-projects)
-3. ❌ Closed PR [#3](https://github.com/Yeah-Jack/html-php-projects/pull/3) in [Yeah-Jack/html-php-projects](https://github.com/Yeah-Jack/html-php-projects)
-4. 🎉 Merged PR [#2](https://github.com/Yeah-Jack/html-php-projects/pull/2) in [Yeah-Jack/html-php-projects](https://github.com/Yeah-Jack/html-php-projects)
+1. 🎉 Merged PR [#7](https://github.com/Yeah-Jack/html-php-projects/pull/7) in [Yeah-Jack/html-php-projects](https://github.com/Yeah-Jack/html-php-projects)
+2. 🎉 Merged PR [#15](https://github.com/Yeah-Jack/cpp-projects/pull/15) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+3. 🎉 Merged PR [#6](https://github.com/Yeah-Jack/html-php-projects/pull/6) in [Yeah-Jack/html-php-projects](https://github.com/Yeah-Jack/html-php-projects)
+4. 🎉 Merged PR [#5](https://github.com/Yeah-Jack/html-php-projects/pull/5) in [Yeah-Jack/html-php-projects](https://github.com/Yeah-Jack/html-php-projects)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
