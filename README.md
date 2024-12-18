@@ -1,12 +1,15 @@
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack"/> </div>
 
 <h1 align="center">Hi 👋, I'm Yeah Jack 👨‍💻</h1>
-<h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
 <div align="center"> 
 	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="pinguin gif"/>
+	<h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
+</div>
+<div align="center"> 
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeah-Jack&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en&layout=compact" alt="Yeah-Jack"/>
 	<img src="https://github-readme-stats.vercel.app/api?username=Yeah-Jack&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&locale=en" alt="yeah-jack"/>
 </div>
-<div align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits"> </p>
+<div align="center"> <img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits"> </div>
 
 -   🔭 I’m currently working on [TCC (The Config Cloud)](https://github.com/Yeah-Jack/TCC)
 
