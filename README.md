@@ -83,10 +83,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/project/pull/1) in [Yeah-Jack/project](https://github.com/Yeah-Jack/project)
-2. 💪 Opened PR [#1](https://github.com/Yeah-Jack/project/pull/1) in [Yeah-Jack/project](https://github.com/Yeah-Jack/project)
-3. 🎉 Merged PR [#22](https://github.com/Yeah-Jack/cpp-projects/pull/22) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-4. 🎉 Merged PR [#21](https://github.com/Yeah-Jack/cpp-projects/pull/21) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
+1. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/bulk-goodreads-adder/pull/1) in [Yeah-Jack/bulk-goodreads-adder](https://github.com/Yeah-Jack/bulk-goodreads-adder)
+2. 🎉 Merged PR [#1](https://github.com/Yeah-Jack/project/pull/1) in [Yeah-Jack/project](https://github.com/Yeah-Jack/project)
+3. 💪 Opened PR [#1](https://github.com/Yeah-Jack/project/pull/1) in [Yeah-Jack/project](https://github.com/Yeah-Jack/project)
+4. 🎉 Merged PR [#22](https://github.com/Yeah-Jack/cpp-projects/pull/22) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
  <!--END_SECTION:activity-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
