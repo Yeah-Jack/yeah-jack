@@ -11,7 +11,7 @@
  	<img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits">
 </div>
 
-- 📫 Reach me at **yeahjack.yt@gmail.com**
+- 📫 Reach me at [yeahjack.yt@gmail.com](mailto:yeahjack.yt@gmail.com)
 - ⚡ Fun fact: I found interest in coding again because of this video: [How I replaced gaming with coding](https://youtu.be/qBC6VHhj64c)
 - 💭 Favorite Quote: Your identity emerges out of your habits. Every action is a vote for the type of person you wish to become.
 
@@ -24,15 +24,7 @@
 		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake.svg">
 		<img src="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation">
 	</picture>
-	<h2>💻 Recent GitHub Activity 💻</h2>
 </div>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Yeah-Jack/cpp-projects/pull/31) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-2. 🎉 Merged PR [#29](https://github.com/Yeah-Jack/cpp-projects/pull/29) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-3. 🎉 Merged PR [#28](https://github.com/Yeah-Jack/cpp-projects/pull/28) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-4. 🎉 Merged PR [#27](https://github.com/Yeah-Jack/cpp-projects/pull/27) in [Yeah-Jack/cpp-projects](https://github.com/Yeah-Jack/cpp-projects)
-<!--END_SECTION:activity-->
 
 <div align="center">
 	<h2>⚡ Stats ⚡</h2>
@@ -43,4 +35,3 @@
 	<h2> 📌 Pinned Repositories </h2>
 	<p> Take a look at my most outstanding repositories. </p>
 </div>
-
