@@ -1,14 +1,14 @@
 <div align="right">
-	<img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack"/>
+	<img src="https://komarev.com/ghpvc/?username=yeah-jack&label=Profile%20views&style=flat" alt="yeah-jack">
 </div>
 
 <div align="center">
 	<h1>Hi 👋, I'm Yeah Jack 👨‍💻</h1>
-	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="pinguin gif"/>
+	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="pinguin gif">
 	<h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
-	<img src="https://github-readme-stats.vercel.app/api?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&icon_color=8E2DE2" alt="Yeah-Jack"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&icon_color=8E2DE2&layout=compact" alt="Yeah-Jack"/>
- 	<img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits">
+	<img src="https://github-readme-stats.vercel.app/api?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&icon_color=8E2DE2" alt="Stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&layout=compact" alt="Most used languages">
+ 	<!-- <img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits" alt="Overview"> -->
 </div>
 
 - 📫 Reach me at [yeahjack.yt@gmail.com](mailto:yeahjack.yt@gmail.com)
@@ -17,7 +17,7 @@
 
 <div align="center">
 	<h2>⚙️ Languages and Tools ⚙️</h2>
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,cpp,mysql,markdown&tools=git,docker,npm,vercel,prettier&software=linux,windows,vscode&includeNames=true"/>
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,cpp,mysql,markdown&tools=git,docker,npm,vercel,prettier&software=linux,windows,vscode&includeNames=true" alt="Skills">
 	<h2>🐍 Contributions 🐍</h2>
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake-dark.svg">
@@ -28,11 +28,8 @@
 
 <div align="center">
 	<h2>⚡ Stats ⚡</h2>
-	<img src="https://github-profile-trophy.vercel.app/?username=yeah-jack&theme=algolia&no-bg=true" alt="yeah-jack"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=YeahJack&theme=material-palenight&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=8E2DE2&icon_color=8E2DE2&locale=en&layout=compact">
-	<h2>🤗 Support 🤗</h2>
-	<a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack"/></a>
-	<h2> 📌 Pinned Repositories </h2>
-	<p> Take a look at my most outstanding repositories. </p>
+	<img src="https://github-profile-trophy.vercel.app/?username=yeah-jack&theme=algolia&no-bg=true" alt="All stats">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Yeah-Jack&theme=transparent&hide_border=true&stroke=8E2DE2&ring=8E2DE2&fire=8E2DE2&currStreakNum=417E87&sideNums=417E87&currStreakLabel=417E87&sideLabels=417E87&dates=417E87" alt="Streak Stats">
+	<!-- <h2>🤗 Support 🤗</h2>
+	<a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack"></a> -->
 </div>
-
