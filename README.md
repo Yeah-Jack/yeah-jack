@@ -17,7 +17,7 @@
 
 <div align="center">
 	<h2>⚙️ Languages and Tools ⚙️</h2>
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=html,css,cpp,mysql,markdown&tools=git,docker,npm,vercel,prettier&software=linux,windows,vscode&includeNames=true"/>
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,cpp,mysql,markdown&tools=git,docker,npm,vercel,prettier&software=linux,windows,vscode&includeNames=true"/>
 	<h2>🐍 Contributions 🐍</h2>
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeah-jack/yeah-jack/output/github-contribution-grid-snake-dark.svg">
@@ -35,3 +35,4 @@
 	<h2> 📌 Pinned Repositories </h2>
 	<p> Take a look at my most outstanding repositories. </p>
 </div>
+
