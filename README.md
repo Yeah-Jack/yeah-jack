@@ -28,9 +28,10 @@
 
 <div align="center">
 	<h2>⚡ Stats ⚡</h2>
-	<img src="https://github-profile-trophy.vercel.app/?username=yeah-jack&theme=algolia&no-bg=true" alt="All stats">
+	<img src="https://github-profile-trophy-fork-two.vercel.app?username=yeah-jack&theme=algolia&no-bg=true" alt="All stats">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=Yeah-Jack&theme=transparent&hide_border=true&stroke=8E2DE2&ring=8E2DE2&fire=8E2DE2&currStreakNum=417E87&sideNums=417E87&currStreakLabel=417E87&sideLabels=417E87&dates=417E87" alt="Streak Stats">
 	<!-- <h2>🤗 Support 🤗</h2>
 	<a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack"></a> -->
 </div>
+
 
