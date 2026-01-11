@@ -6,8 +6,8 @@
 	<h1>Hi 👋, I'm Yeah Jack 👨‍💻</h1>
 	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="pinguin gif">
 	<h3 align="center">A passionate frontend developer from Germany 🥨🍻</h3>
-	<img src="https://github-readme-stats.vercel.app/api?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&icon_color=8E2DE2" alt="Stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&layout=compact" alt="Most used languages">
+	<img src="https://github-readme-stats-seven-woad-85.vercel.app/api?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&icon_color=8E2DE2" alt="Stats">
+	<img src="https://github-readme-stats-seven-woad-85.vercel.app/api/top-langs?username=Yeah-Jack&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=8E2DE2&layout=compact" alt="Most used languages">
  	<!-- <img src="https://github-widgetbox.vercel.app/api/profile?username=Yeah-Jack&data=followers,repositories,stars,commits" alt="Overview"> -->
 </div>
 
@@ -33,3 +33,4 @@
 	<!-- <h2>🤗 Support 🤗</h2>
 	<a href="https://ko-fi.com/yeahjack"> <img src="https://cdn.ko-fi.com/cdn/kofi6.png" height="50" width="210" alt="yeahjack"></a> -->
 </div>
+
